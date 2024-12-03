@@ -15,3 +15,5 @@ Practice fundamental web development skills.
 Learn to structure a webpage effectively.
 Explore modern CSS techniques for styling and responsiveness.
 
+NB: Ignore grid.html, flexbox.html and positions.html
+
